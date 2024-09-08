@@ -15,4 +15,4 @@ Work-Life Balance Impact: A pie chart showing the distribution of living options
 
 ## Tools and Technologies
 Power BI: For creating interactive data visualizations and dashboards.
-##### Data Source: Self collected dataset
+##### Data Source: Self collected dataset.
