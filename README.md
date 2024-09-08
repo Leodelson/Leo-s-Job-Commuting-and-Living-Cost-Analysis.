@@ -1,5 +1,5 @@
 # Leo's Job Commuting and Living Cost Analysis.
-This repository contains a Power BI dashboard titled "Leo's Job Commuting and Living Cost Analysis." The dashboard provides an analysis of the commuting and living costs associated with different living options while working in the Central Business Area, Abuja. This project aims to help Leo make an informed decision on the best living option based on cost efficiency and work-life balance.
+The dashboard provides an analysis of the commuting and living costs associated with different living options while working in the Central Business Area, Abuja. This project aims to help Leo make an informed decision on the best living option based on cost efficiency and work-life balance.
 ## Dashboard Visualization
 ![Job Commuting Dashboard Analysis](https://github.com/user-attachments/assets/c8bfe71c-ba0a-48cf-b373-21cdce45b1b3)
 
