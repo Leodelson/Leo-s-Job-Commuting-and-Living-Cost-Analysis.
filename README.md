@@ -4,21 +4,21 @@ Making an Informed Decision on the Best Living Option Based on Cost Efficiency a
 ### Date: 09/10/2024
 ## Overview of Job Commuting and Living Cost Dashboard: 
 ![Job Commuting Dashboard Analysis](https://github.com/user-attachments/assets/c8bfe71c-ba0a-48cf-b373-21cdce45b1b3)
-### The dashboard provides an analysis of the commuting and living costs associated with different living options while working in the Central Business Area, Abuja. This project aims to help Leo make an informed decision on the best living option based on cost efficiency and work-life balance.
+The dashboard provides an analysis of the commuting and living costs associated with different living options while working in the Central Business Area, Abuja. This project aims to help Leo make an informed decision on the best living option based on cost efficiency and work-life balance.
 ## Commuting Costs of Living in Gwagwalada:
-### N3k per day
-### N58k per month
-### N690k per annual
+N3k per day
+N58k per month
+N690k per annual
 ##  Commuting Costs of Living in Lugbe:
-### N2k per day
-### N46k per month
-### N552k per annual
+N2k per day
+N46k per month
+N552k per annual
 ## Annual Cost Comparison by Living Option:
-### Lugbe, Abuja N500k
-### Gwagwalada, Abuja N200k
+Lugbe, Abuja N500k
+Gwagwalada, Abuja N200k
 ## Work-Life Balance Impact by Commute and Living Option:
-### Lugbe,Abuja (80%)
-### Gwagwalada, Abuja (40%)
+Lugbe,Abuja (80%)
+Gwagwalada, Abuja (40%)
 
 ## Summary of Key Insights:
 Commuting Costs: Lugbe Living options have lower daily, monthly and annual commuting costs compared to Gwagwalada.
