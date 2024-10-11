@@ -1,7 +1,10 @@
 # Leo's Job Commuting and Living Cost Analysis.
-The dashboard provides an analysis of the commuting and living costs associated with different living options while working in the Central Business Area, Abuja. This project aims to help Leo make an informed decision on the best living option based on cost efficiency and work-life balance.
-## Dashboard Visualization
+Making an Informed Decision on the Best Living Option Based on Cost Efficiency and Work-Life Balance
+### Analyst: Leo
+### Date: 10/10/2024
+## Overview of Job Commuting and Living Cost Dashboard
 ![Job Commuting Dashboard Analysis](https://github.com/user-attachments/assets/c8bfe71c-ba0a-48cf-b373-21cdce45b1b3)
+### The dashboard provides an analysis of the commuting and living costs associated with different living options while working in the Central Business Area, Abuja. This project aims to help Leo make an informed decision on the best living option based on cost efficiency and work-life balance.
 
 ## Project Goals
 Analyze Commuting Costs: Assess the daily, monthly, and annual commuting costs associated with different living options.
