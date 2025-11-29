@@ -25,11 +25,12 @@ N46k per month
 
 N552k per annual
 
---
+
 ## Annual Cost Comparison by Living Option:
 <img width="383" height="193" alt="Annual Comparison by Living Option" src="https://github.com/user-attachments/assets/938a1b43-f25a-4c71-9088-4a5863415690" />
 
 Lugbe, Abuja N500k
+
 Gwagwalada, Abuja N200k
 
 
@@ -37,6 +38,7 @@ Gwagwalada, Abuja N200k
 <img width="382" height="211" alt="Work Life Balance and Living Option" src="https://github.com/user-attachments/assets/7d55731e-afaa-4c49-8bb1-8dab4a946d16" />
 
 Lugbe,Abuja (80%)
+
 Gwagwalada, Abuja (40%)
 
 ## Summary of Key Insights:
