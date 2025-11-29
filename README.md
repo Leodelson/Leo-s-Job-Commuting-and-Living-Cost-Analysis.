@@ -1,5 +1,5 @@
 # Leo's Job Commuting and Living Cost Analysis.
-Making an Informed Decision on the Best Living Option Based on Cost Efficiency and Work-Life Balance
+Leo is trying to determine the most cost-efficient and balanced living option by comparing commute distances, transportation expenses, and overall living costs. Without a clear breakdown of these factors, it becomes difficult for him to decide which location best supports both financial stability and a healthy work-life balance. This analysis helps Leo make an informed decision by evaluating total commuting cost, living expenses, and daily convenience across his available housing options.
 ### Analyst: Leo
 ### Date: 09/10/2024
 ## Overview of Job Commuting and Living Cost Dashboard: 
