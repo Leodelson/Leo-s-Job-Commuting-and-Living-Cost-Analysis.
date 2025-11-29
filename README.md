@@ -1,4 +1,4 @@
-# Leo's Job Commuting and Living Cost Analysis.
+# Leo's Job Commuting and Living Cost Analysis:
 ## Problem Statement:
 Leo is trying to determine the most cost-efficient and balanced living option by comparing commute distances, transportation expenses, and overall living costs. Without a clear breakdown of these factors, it becomes difficult for him to decide which location best supports both financial stability and a healthy work-life balance. This analysis helps Leo make an informed decision by evaluating total commuting cost, living expenses, and daily convenience across his available housing options.
 ### Analyst: Leo
@@ -8,6 +8,9 @@ Leo is trying to determine the most cost-efficient and balanced living option by
 The dashboard provides an analysis of the commuting and living costs associated with different living options while working in the Central Business Area, Abuja. This project aims to help Leo make an informed decision on the best living option based on cost efficiency and work-life balance.
 
 ## Commuting Costs of Living in Gwagwalada:
+<img width="508" height="209" alt="Commuting Cost Per Day, Month and Year" src="https://github.com/user-attachments/assets/fb6e5232-03e8-40d1-9831-46f7adde6b55" />
+
+
 N3k per day
 N58k per month
 N690k per annual
@@ -20,11 +23,14 @@ N552k per annual
 
 
 ## Annual Cost Comparison by Living Option:
+<img width="383" height="193" alt="Annual Comparison by Living Option" src="https://github.com/user-attachments/assets/938a1b43-f25a-4c71-9088-4a5863415690" />
 Lugbe, Abuja N500k
 Gwagwalada, Abuja N200k
 
 
 ## Work-Life Balance Impact by Commute and Living Option:
+<img width="382" height="211" alt="Work Life Balance and Living Option" src="https://github.com/user-attachments/assets/7d55731e-afaa-4c49-8bb1-8dab4a946d16" />
+
 Lugbe,Abuja (80%)
 Gwagwalada, Abuja (40%)
 
