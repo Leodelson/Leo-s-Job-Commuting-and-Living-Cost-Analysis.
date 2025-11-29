@@ -9,19 +9,16 @@ The dashboard provides an analysis of the commuting and living costs associated 
 
 ## Commuting Costs of Living in Gwagwalada:
 <img width="508" height="209" alt="Commuting Cost Per Day, Month and Year" src="https://github.com/user-attachments/assets/fb6e5232-03e8-40d1-9831-46f7adde6b55" />
-
-
 N3k per day
 N58k per month
 N690k per annual
-
 
 ##  Commuting Costs of Living in Lugbe:
 N2k per day
 N46k per month
 N552k per annual
 
-
+--
 ## Annual Cost Comparison by Living Option:
 <img width="383" height="193" alt="Annual Comparison by Living Option" src="https://github.com/user-attachments/assets/938a1b43-f25a-4c71-9088-4a5863415690" />
 Lugbe, Abuja N500k
@@ -30,7 +27,6 @@ Gwagwalada, Abuja N200k
 
 ## Work-Life Balance Impact by Commute and Living Option:
 <img width="382" height="211" alt="Work Life Balance and Living Option" src="https://github.com/user-attachments/assets/7d55731e-afaa-4c49-8bb1-8dab4a946d16" />
-
 Lugbe,Abuja (80%)
 Gwagwalada, Abuja (40%)
 
