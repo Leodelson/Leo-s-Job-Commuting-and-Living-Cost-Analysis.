@@ -5,10 +5,12 @@ Leo is trying to determine the most cost-efficient and balanced living option by
 ### Date: 09/10/2024
 ## Overview of Job Commuting and Living Cost Dashboard: 
 ![Job Commuting Dashboard Analysis](https://github.com/user-attachments/assets/c8bfe71c-ba0a-48cf-b373-21cdce45b1b3)
+
 The dashboard provides an analysis of the commuting and living costs associated with different living options while working in the Central Business Area, Abuja. This project aims to help Leo make an informed decision on the best living option based on cost efficiency and work-life balance.
 
 ## Commuting Costs of Living in Gwagwalada:
 <img width="508" height="209" alt="Commuting Cost Per Day, Month and Year" src="https://github.com/user-attachments/assets/fb6e5232-03e8-40d1-9831-46f7adde6b55" />
+
 N3k per day
 N58k per month
 N690k per annual
