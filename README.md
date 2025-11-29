@@ -1,4 +1,4 @@
-# Leo's Job Commuting and Living Cost Analysis:
+# Leo's Job Commuting and Living Cost Insights:
 ## Problem Statement:
 Leo is trying to determine the most cost-efficient and balanced living option by comparing commute distances, transportation expenses, and overall living costs. Without a clear breakdown of these factors, it becomes difficult for him to decide which location best supports both financial stability and a healthy work-life balance. This analysis helps Leo make an informed decision by evaluating total commuting cost, living expenses, and daily convenience across his available housing options.
 ### Analyst: Leo
